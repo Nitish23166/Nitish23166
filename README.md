@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**Nitish23166/Nitish23166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+# 💫 About Me:
 I am student at DTU<br>My major domain of interest is AIML <br>Strong foundation in Python, Data Structures, and ML fundamentals<br> Experience with TensorFlow, Scikit-learn, and deep learning models <br>I believe in learning by building and continuously pushing from theory to  real applications.
 
 
@@ -27,7 +16,3 @@ I am student at DTU<br>My major domain of interest is AIML <br>Strong foundation
 [![](https://visitcount.itsvg.in/api?id=Nitish23166&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
