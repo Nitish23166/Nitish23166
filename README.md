@@ -33,33 +33,6 @@ AI/ML Engineer • B.Tech @ DTU
 - 📚 Retrieval Augmented Generation (RAG)
 - ☁ Cloud & Scalable AI Systems
 
----
-
-# 🚀 Featured Projects
-
-### 🌱 Soilo AI
-AI-powered soil intelligence platform built using Golang.
-
-### 🤖 Hiring Doctor AI
-AI Resume Ranking Platform using LLMs + Embeddings + FAISS.
-
-### 👁 Student Behaviour Detection
-YOLOv8 + MediaPipe + Firebase
-
-### 📄 SHL Assessment Recommendation System
-LLM powered recommendation engine.
-
----
-
-# 🏆 Achievements
-
-🥈 AI/ML Intern @ Soilo
-
-🥈 B-Plan Competition Runner-up
-
-🥈 Yosicon Hackathon Runner-up
-
-🏆 Passionate Open Source Developer
 
 ---
 
@@ -70,59 +43,6 @@ LLM powered recommendation engine.
 <img src="https://skillicons.dev/icons?i=python,go,fastapi,docker,git,github,linux,postgresql,mysql,firebase,tensorflow,pytorch,opencv,vscode"/>
 
 </p>
-
----
-
-# 📊 GitHub Dashboard
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitish23166&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish23166&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nitish23166&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitish23166&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nitish23166&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- AI Agents
-- LangGraph
-- Golang
-- Docker
-- Kubernetes
-- Multi-Agent Systems
 
 ---
 
