@@ -1,35 +1,153 @@
-# 💫 About Me:
+<!-- ========================= HEADER ========================= -->
 
-# 👋 Hi, I'm Nitish Yadav
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Nitish%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-🚀 AI/ML Engineer passionate about building production-ready AI systems.
+<h1 align="center">Hi 👋, I'm Nitish Yadav</h1>
+
+<h3 align="center">
+AI/ML Engineer • Backend Developer • B.Tech @ DTU
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Backend+Developer;Building+Real+World+AI+Products;Computer+Vision+%7C+LLMs+%7C+Golang;Always+Learning+New+Technologies"/>
+</p>
+
+---
+
+# 🚀 About Me
 
 🎓 B.Tech Electrical Engineering @ Delhi Technological University
 
-💼 AI/ML
+💼 AI/ML Intern @ **Soilo**
 
-🤖 Interested in
+🤖 Passionate about building production-ready AI systems.
 
-• Large Language Models
-• Computer Vision
-• AI Agents
-• Backend Development (Go + Python)
-• RAG Systems
+### 🔥 Interests
 
-Currently building AI products that solve real-world problems.
-
-
-## 🌐 Socials:
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitishyadav23166@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nitish23166&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nitish23166&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish23166&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🤖 Large Language Models
+- 👁 Computer Vision
+- 🧠 AI Agents
+- ⚡ Golang Backend
+- 📚 Retrieval Augmented Generation (RAG)
+- ☁ Cloud & Scalable AI Systems
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nitish23166&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 Featured Projects
+
+### 🌱 Soilo AI
+AI-powered soil intelligence platform built using Golang.
+
+### 🤖 Hiring Doctor AI
+AI Resume Ranking Platform using LLMs + Embeddings + FAISS.
+
+### 👁 Student Behaviour Detection
+YOLOv8 + MediaPipe + Firebase
+
+### 📄 SHL Assessment Recommendation System
+LLM powered recommendation engine.
+
+---
+
+# 🏆 Achievements
+
+🥈 AI/ML Intern @ Soilo
+
+🥈 B-Plan Competition Runner-up
+
+🥈 Yosicon Hackathon Runner-up
+
+🏆 Passionate Open Source Developer
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,docker,git,github,linux,postgresql,mysql,firebase,tensorflow,pytorch,opencv,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitish23166&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish23166&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nitish23166&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitish23166&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nitish23166&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- AI Agents
+- LangGraph
+- Golang
+- Docker
+- Kubernetes
+- Multi-Agent Systems
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nitish-yadav/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nitishyadav23166@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Nitish23166">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐️ Thanks for visiting my profile ⭐️
+
+</p>
