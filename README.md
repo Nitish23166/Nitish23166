@@ -1,11 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=🤖+AI+Engineer;🚀+Building+Production-Ready+AI+Systems;🧠+LLMs+%7C+Computer+Vision+%7C+AI+Agents;🌱+AI%2FML+Intern+%40+Soilo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Nitish%20Yadav&fontSize=58&fontColor=ffffff&animation=twinkling&color=timeGradient"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nitish Yadav</h1>
