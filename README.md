@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Nitish%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Nitish%20Yadav&fontSize=55&fontAlign=50&fontAlignY=38&animation=twinkling&fontColor=ffffff&color=gradient"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nitish Yadav</h1>
