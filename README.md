@@ -1,9 +1,13 @@
 # 💫 About Me:
+
 # 👋 Hi, I'm Nitish Yadav
 
 🚀 AI/ML Engineer passionate about building production-ready AI systems.
+
 🎓 B.Tech Electrical Engineering @ Delhi Technological University
-💼 AI/ML 
+
+💼 AI/ML
+
 🤖 Interested in
 
 • Large Language Models
