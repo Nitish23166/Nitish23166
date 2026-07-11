@@ -5,7 +5,7 @@
 
 🎓 B.Tech Electrical Engineering @ Delhi Technological University
 
-💼 AI/ML Intern @ Soilo
+💼 AI/ML 
 
 🤖 Interested in
 
