@@ -11,7 +11,7 @@ AI/ML Engineer • B.Tech @ DTU
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Building+Real+World+AI+Products;Computer+Vision+%7C+LLMs+%7C+Golang;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Building+Real+World+AI+Products;Computer+Vision+%7C+LLMs+%7C+Python;Always+Learning+New+Technologies"/>
 </p>
 
 ---
