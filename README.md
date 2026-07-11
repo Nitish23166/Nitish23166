@@ -1,5 +1,21 @@
 # 💫 About Me:
-I am student at DTU<br>My major domain of interest is AIML <br>Strong foundation in Python, Data Structures, and ML fundamentals<br> Experience with TensorFlow, Scikit-learn, and deep learning models <br>I believe in learning by building and continuously pushing from theory to  real applications.
+# 👋 Hi, I'm Nitish Yadav
+
+🚀 AI/ML Engineer passionate about building production-ready AI systems.
+
+🎓 B.Tech Electrical Engineering @ Delhi Technological University
+
+💼 AI/ML Intern @ Soilo
+
+🤖 Interested in
+
+• Large Language Models
+• Computer Vision
+• AI Agents
+• Backend Development (Go + Python)
+• RAG Systems
+
+Currently building AI products that solve real-world problems.
 
 
 ## 🌐 Socials:
