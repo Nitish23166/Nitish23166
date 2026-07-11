@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Nitish Yadav</h1>
 
 <h3 align="center">
-AI/ML Engineer • Backend Developer • B.Tech @ DTU
+AI/ML Engineer • B.Tech @ DTU
 </h3>
 
 <p align="center">
@@ -20,7 +20,7 @@ AI/ML Engineer • Backend Developer • B.Tech @ DTU
 
 🎓 B.Tech Electrical Engineering @ Delhi Technological University
 
-💼 AI/ML Intern @ **Soilo**
+💼 AI/ML Engineer 
 
 🤖 Passionate about building production-ready AI systems.
 
